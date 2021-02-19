@@ -1,0 +1,2 @@
+# rusttogo
+Rust-Server-Rules
